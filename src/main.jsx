@@ -426,8 +426,8 @@ function App() {
         <section className="login-panel" aria-label="Login">
           <div className="login-brand">
             <img
-              className="brand-logo"
-              src="C:\Users\Acer\Desktop\New folder\dist\assets\image.png"
+            className="brand-logo"
+              src="/image.png"
               alt="Stitching Cotton logo"
             />
             <div>
@@ -475,7 +475,7 @@ function App() {
         <div className="brand">
           <img
             className="brand-logo sidebar-logo"
-            src="C:\Users\Acer\Desktop\New folder\dist\assets\image.png"
+            src="/image.png"
             alt="Stitching Cotton logo"
           />
           <div>

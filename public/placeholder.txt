@@ -1,0 +1,2 @@
+This folder is used for static assets in Vite (e.g., /image.png).
+
