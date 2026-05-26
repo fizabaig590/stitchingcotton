@@ -425,7 +425,11 @@ function App() {
       <main className="login-page">
         <section className="login-panel" aria-label="Login">
           <div className="login-brand">
-            <img className="brand-logo" src="/image.png" alt="Stitching Cotton logo" />
+            <img
+              className="brand-logo"
+              src="C:\Users\Acer\Desktop\New folder\dist\assets\image.png"
+              alt="Stitching Cotton logo"
+            />
             <div>
               <p className="eyebrow">Accounting</p>
               <h1>Stitching Cotton</h1>
@@ -469,7 +473,11 @@ function App() {
     <div className="app-shell">
       <aside className="sidebar">
         <div className="brand">
-          <img className="brand-logo sidebar-logo" src="/image.png" alt="Stitching Cotton logo" />
+          <img
+            className="brand-logo sidebar-logo"
+            src="C:\Users\Acer\Desktop\New folder\dist\assets\image.png"
+            alt="Stitching Cotton logo"
+          />
           <div>
             <p className="eyebrow">Accounting</p>
             <h1>Stitching Cotton</h1>
